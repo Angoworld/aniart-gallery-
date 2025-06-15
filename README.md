@@ -1,6 +1,5 @@
 
 # AniArt Gallery
 
-A creative gallery site by Anna.
-
-This site is published via GitHub Pages.
+This is a personal image gallery created by Anna.
+Published with GitHub Pages.
